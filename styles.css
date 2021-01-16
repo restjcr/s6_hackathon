@@ -1,0 +1,48 @@
+#header{
+    height: 100px;
+    align-items: center;
+}
+
+#title-wrapper{
+    background-color: skyblue;
+    height: 200px;
+    
+}
+
+#busqueda{
+    height: 50px;
+    background-color: whitesmoke ;
+    align-items: center;
+}
+
+    #busqueda button{
+        border: none;
+        background-color: transparent;
+    }
+    
+    #busqueda input{
+        border: none;
+        background-color: transparent;
+    }
+
+.section{
+    margin-top: 2em;
+}
+
+.img-container img{
+    width: 100%;
+}
+
+button{
+    border: none;
+    background-color: transparent;
+}
+
+li{
+    list-style: none;
+    
+}
+
+    li a{
+        color: black;
+    }
